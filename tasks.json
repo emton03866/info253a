@@ -1,0 +1,27 @@
+[
+    {
+        "name": "task1"
+        ,"isComplete": false
+        ,"description": "call mom"
+    },
+    {
+        "name": "task2"
+        ,"isComplete": false
+        ,"description": "buy scientific american"
+    },
+    {
+        "name": "task3"
+        ,"isComplete": false
+        ,"description": "return textbook"
+    },
+    {
+        "name": "task4"
+        ,"isComplete": false
+        ,"description": "buy new album"
+    },
+    {
+        "name": "task5"
+        ,"isComplete": false
+        ,"description": "buy giftcard"
+    }
+]
